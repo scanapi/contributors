@@ -35,7 +35,7 @@ This code of conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be  
-reported by contacting a project maintainer at [ash@ashfurrow.com](mailto:ash@ashfurrow.com) or [orta.therox@gmail.com](mailto:orta.therox@gmail.com). All  
+reported by contacting a project maintainer at [cmaiacd@gmail.com](mailto:cmaiacd@gmail.com). All  
 complaints will be reviewed and investigated and will result in a response that  
 is deemed necessary and appropriate to the circumstances. Maintainers are  
 obligated to maintain confidentiality with regard to the reporter of an  
