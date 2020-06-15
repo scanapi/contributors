@@ -4,9 +4,9 @@ The ScanAPI Core Team is a group of ScanAPI contributors that have demonstrated 
 
 ## Core Team Responsibilities
 
-The Moya Core Team has the following responsibilities:
+The ScanAPI Core Team has the following responsibilities:
 
-- Being available to answer high-level questions about Moya's vision and future.
+- Being available to answer high-level questions about ScanAPI's vision and future.
 - Being available to review longstanding/forgotten pull requests.
 - Occasionally check ScanAPI issues, offer input, and categorize with GitHub issue labels.
 - Looking out for up-and-coming members of the ScanAPI community who might want to serve as Core Team members.
@@ -16,6 +16,7 @@ Note that the ScanAPI Core Team – and all ScanAPI contributors – are open so
 ## Core Team Members
 
 - [@camilamaia](https://github.com/camilamaia)
+- [@barbosa](https://github.com/barbosa)
 
 ## Adding new Core Team Members
 
