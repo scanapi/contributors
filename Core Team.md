@@ -1,6 +1,6 @@
 # ScanAPI Core Team
 
-The ScanAPI Core Team is a group of ScanAPI contributors that have demonstrated a lasting enthusiasm for the project and community. The Core Team has GitHub admin privileges on all Moya repos.
+The ScanAPI Core Team is a group of ScanAPI contributors that have demonstrated a lasting enthusiasm for the project and community. The Core Team has GitHub admin privileges on all ScanAPI repos.
 
 ## Core Team Responsibilities
 
