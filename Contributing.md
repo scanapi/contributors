@@ -44,7 +44,7 @@ If someone submits a pull request that is not perfect, and you are reviewing, it
 
 #### What about if you have problems that cannot be discussed in a public issue?
 
-You can talk directly with [Camila Maia](https://github.com/camilamaia), she would be happy to help 😊
+You can talk directly with one of the [Core Team Members](https://github.com/scanapi/contributors/blob/master/Core%20Team.md#core-team-members), they would be glad to help 😊
 
 #### Where can I get more info about this document?
 
