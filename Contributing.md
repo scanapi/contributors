@@ -1,4 +1,4 @@
-# Community Continuity Guidelines v2.0.0
+# Contributing
 
 As the creators and maintainers of this project, we want to ensure that the project lives and continues to grow. Not blocked by any singular person's computer time. One of the simplest ways of doing this is by encouraging a larger set of shallow contributors. Through this, we hope to mitigate the problems of a project that needs updates, but there is no-one who has the power to do so.
 

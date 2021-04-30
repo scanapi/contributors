@@ -17,10 +17,11 @@ Note that the ScanAPI Core Team – and all ScanAPI contributors – are open so
 
 - [@camilamaia](https://github.com/camilamaia)
 - [@barbosa](https://github.com/barbosa)
+- [@marcuxyz](https://github.com/marcuxyz)
 
 ## Adding new Core Team Members
 
 The process for adding new Core Team members is as follows:
 
-- An existing Core Team member reaches out privately to see if the individual is interested. If they are, open a pull request adding them to the list. 
+- An existing Core Team member reaches out privately to see if the individual is interested. If they are, open a pull request adding them to the list.
 - Existing Core Team members review the pull request. The person merging the PR is responsible for adding them to the Core Team GitHub group.
