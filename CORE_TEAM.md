@@ -25,3 +25,12 @@ The process for adding new Core Team members is as follows:
 
 - An existing Core Team member reaches out privately to see if the individual is interested. If they are, open a pull request adding them to the list.
 - Existing Core Team members review the pull request. The person merging the PR is responsible for adding them to the Core Team GitHub group.
+
+## Core Team Members Accesses
+
+The core team members should have access to:
+
+- [GitHub Core Team group](https://github.com/orgs/scanapi/teams/core-team) on ScanAPI org
+- Google Analytics ScanAPI Account
+- [scanapi-demo](https://dashboard.heroku.com/apps/scanapi-demo) Heroku App
+- Bitwarden ScanAPI Organization
