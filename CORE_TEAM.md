@@ -28,11 +28,14 @@ The process for adding new Core Team members is as follows:
 
 ## Core Team Members Accesses
 
-The core team members should have access to:
+The core team members should have admin access to:
 
 - [GitHub Core Team group](https://github.com/orgs/scanapi/teams/core-team) on ScanAPI org
 - Google Analytics ScanAPI Account
 - [scanapi-demo](https://dashboard.heroku.com/apps/scanapi-demo) Heroku App
 - [Bitwarden ScanAPI Organization](https://vault.bitwarden.com/#/organizations/727d4335-dd1f-4aca-a940-ac0c0163e787/vault) (up to 2 members)
-- [Telegram Group](http://t.me/scanapi) admin access
-- [Brazilian Telegram Group](http://t.me/scanapi_br) admin access
+- [Telegram Group](http://t.me/scanapi)
+- [Brazilian Telegram Group](http://t.me/scanapi_br)
+- [camilamaia/scanapi repo on Docker Hub](https://hub.docker.com/repository/docker/camilamaia/scanapi)
+- [ScanAPI project on pypi](https://pypi.org/project/scanapi/)
+- [ScanAPI project on test.pypi](https://test.pypi.org/project/scanapi/)
