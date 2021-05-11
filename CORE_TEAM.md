@@ -33,6 +33,6 @@ The core team members should have access to:
 - [GitHub Core Team group](https://github.com/orgs/scanapi/teams/core-team) on ScanAPI org
 - Google Analytics ScanAPI Account
 - [scanapi-demo](https://dashboard.heroku.com/apps/scanapi-demo) Heroku App
-- Bitwarden ScanAPI Organization
+- [Bitwarden ScanAPI Organization](https://vault.bitwarden.com/#/organizations/727d4335-dd1f-4aca-a940-ac0c0163e787/vault) (up 2 members)
 - [Telegram Group](http://t.me/scanapi) admin access
 - [Brazilian Telegram Group](http://t.me/scanapi_br) admin access
