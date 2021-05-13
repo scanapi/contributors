@@ -39,3 +39,4 @@ The core team members should have admin access to:
 - [camilamaia/scanapi repo on Docker Hub](https://hub.docker.com/repository/docker/camilamaia/scanapi)
 - [ScanAPI project on pypi](https://pypi.org/project/scanapi/)
 - [ScanAPI project on test.pypi](https://test.pypi.org/project/scanapi/)
+- [Collective account](https://opencollective.com/scanapi)
