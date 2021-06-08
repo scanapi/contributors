@@ -40,3 +40,4 @@ The core team members should have admin access to:
 - [ScanAPI project on test.pypi](https://test.pypi.org/project/scanapi/)
 - [Collective account](https://opencollective.com/scanapi)
 - [Snyk](https://app.snyk.io/org/scanapi/)
+- [DeepSource](https://deepsource.io/dashboard/gh/scanapi/)
